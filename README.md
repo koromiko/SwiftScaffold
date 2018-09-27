@@ -1,5 +1,7 @@
 # SwiftScaffold
 
+![](https://travis-ci.com/koromiko/SwiftScaffold.svg?branch=master)
+
 SwiftScaffold is a architecture builder, which  helps you to create a well-structured project. SwiftScaffold now mainly focus on the MVVM-Coordinator pattern. 🏗️
 
 If you're looking for an introduction to MVVM, [there](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b) you're. 
