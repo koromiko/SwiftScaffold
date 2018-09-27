@@ -1,0 +1,16 @@
+PODS:
+  - SwiftScaffold (0.1.0)
+
+DEPENDENCIES:
+  - SwiftScaffold (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftScaffold:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftScaffold: bec7444315ef766908127017685d5eaace3f7b86
+
+PODFILE CHECKSUM: 39c2489f6cd518ac1eec57723e65faabcf33a5d3
+
+COCOAPODS: 1.3.1

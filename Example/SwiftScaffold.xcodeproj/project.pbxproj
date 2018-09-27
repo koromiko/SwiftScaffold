@@ -13,7 +13,7 @@
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
-		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		607FACEC1AFB9204008FA782 /* CoordinatorTestCases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* CoordinatorTestCases.swift */; };
 		D21E43035D8726A943196F58 /* Pods_SwiftScaffold_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 20E6F506D737588D2AE79A26 /* Pods_SwiftScaffold_Tests.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,10 +31,10 @@
 		168826B0D0E86D192831D15C /* Pods-SwiftScaffold_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftScaffold_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftScaffold_Example/Pods-SwiftScaffold_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		170826EE7DBC397AB5C81334 /* Pods-SwiftScaffold_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftScaffold_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftScaffold_Example/Pods-SwiftScaffold_Example.release.xcconfig"; sourceTree = "<group>"; };
 		20E6F506D737588D2AE79A26 /* Pods_SwiftScaffold_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftScaffold_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		48CD48DF8DF7BA7D70B4DCC9 /* SwiftScaffold.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftScaffold.podspec; path = ../SwiftScaffold.podspec; sourceTree = "<group>"; };
+		48CD48DF8DF7BA7D70B4DCC9 /* SwiftScaffold.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftScaffold.podspec; path = ../SwiftScaffold.podspec; sourceTree = "<group>"; };
 		5435BADD68BE9F53726181F8 /* Pods-SwiftScaffold_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftScaffold_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftScaffold_Tests/Pods-SwiftScaffold_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5A724BC2045AB446A8C6A20F /* Pods_SwiftScaffold_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftScaffold_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EFA6B8E45ABEC0326A715D9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		5EFA6B8E45ABEC0326A715D9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SwiftScaffold_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftScaffold_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,8 +44,8 @@
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* SwiftScaffold_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftScaffold_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6B57191DD9243155BB282A32 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		607FACEB1AFB9204008FA782 /* CoordinatorTestCases.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorTestCases.swift; sourceTree = "<group>"; };
+		6B57191DD9243155BB282A32 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		79E9955674C41395AA510CD9 /* Pods-SwiftScaffold_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftScaffold_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftScaffold_Tests/Pods-SwiftScaffold_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -115,7 +115,7 @@
 		607FACE81AFB9204008FA782 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				607FACEB1AFB9204008FA782 /* Tests.swift */,
+				607FACEB1AFB9204008FA782 /* CoordinatorTestCases.swift */,
 				607FACE91AFB9204008FA782 /* Supporting Files */,
 			);
 			path = Tests;
@@ -379,7 +379,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				607FACEC1AFB9204008FA782 /* Tests.swift in Sources */,
+				607FACEC1AFB9204008FA782 /* CoordinatorTestCases.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,6 @@
+framework module SwiftScaffold {
+  umbrella header "SwiftScaffold-umbrella.h"
+
+  export *
+  module * { export * }
+}
